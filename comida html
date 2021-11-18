@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Platos tipicos del Perú</title>
+</head>
+<body>
+    <div style= "background : rgb(243, 188, 166);">
+    <div style= "color: rgb(255, 255, 255);">
+        <h1> "COMIDAS TIPICAS PERÚ"</h1>
+    </div>
+    <header>
+        <div style="color : rgb(0, 128, 28);">
+        <h1>Platos de la Costa</h1></div>
+        <p>Sabores frescos</p>
+    </header>
+    <p><p>La gran variedad de peces que habitan en las costas peruanas, y la flora que en ella también se encuentra, hacen de la comida costera, una de las más sabrosas del Perú y el mundo. Hoy hablaremos de un plato muy famoso ''Ceviche'', este tiene una gran variedad de peces que habitan en las costas peruanas, y la flora que en ella también se encuentra, hacen de la comida costera, una de las más sabrosas del Perú y el mundo.
+    </p>
+
+    <nav>
+        <ul>
+            <li>Ceviche</li>
+            <li>Arroz con pollo</li>
+            <li>Papa a la huancaina</li>
+          </ul>
+          
+        </nav>
+        <img src="img/Platos-Tipicos-de-la-Costa-Peruana.jpg"/>
+
+
+    <header>
+        <div style="color : rgb(4, 131, 46);">
+        <h1>Platos amazonicos</h1></div>
+        <p>Sabores exoticos</p>
+    </header>
+    <p><p>se caracteriza por reunir una gran cantidad de platos tan deliciosos como auténticos,La variedad de sus exóticos ingredientes, junto con las técnicas culinarias propias de la Amazonía, hacen de esta cocina uno de los mayores tesoros del Perú</p>
+    
+    <nav>
+        <ul>
+            <li>Juane de gallina</li>
+            <li>Tacacho con cecina</li>
+            <li>Inshicapi</li>
+          </ul>
+          
+        </nav>
+        <img src="img/Platos-tipicos-de-la-selva-peruana.jpg" style="width:400px"/>
+    </div>
+
+    
+</body>
+</html>
